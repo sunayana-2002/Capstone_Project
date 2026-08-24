@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "user": "I received the wrong product.",
+  "assistant": {
+    "answer": "If a different product is received, the customer should raise a return or replacement request and retain the original product, packaging and shipping label.",
+    "source": "wrong_product.txt",
+    "confidence": 0.4367,
+    "mode": "MOCK_LLM"
+  }
+}

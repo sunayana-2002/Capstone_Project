@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "user": "What is the refund policy?",
+  "assistant": {
+    "answer": "Refunds are initiated after the returned product passes quality inspection. Refund timing depends on the payment method and banking partner.",
+    "source": "refund_policy.txt",
+    "confidence": 0.5693,
+    "mode": "MOCK_LLM"
+  }
+}

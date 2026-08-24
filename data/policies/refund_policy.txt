@@ -1,0 +1,1 @@
+Refunds are initiated after the returned product passes quality inspection. Refund timing depends on the payment method and banking partner.
