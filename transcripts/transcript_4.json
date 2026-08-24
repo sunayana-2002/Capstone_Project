@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "user": "My product arrived damaged.",
+  "assistant": {
+    "answer": "Customers receiving a damaged or defective product should report the issue promptly. Photographs or other evidence may be requested during the support process.",
+    "source": "damaged_product.txt",
+    "confidence": 0.5743,
+    "mode": "MOCK_LLM"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "user": "Can I exchange my product?",
+  "assistant": {
+    "answer": "Eligible products may be exchanged subject to availability. Exchange requests must normally be raised within the applicable return window.",
+    "source": "exchange_policy.txt",
+    "confidence": 0.5572,
+    "mode": "MOCK_LLM"
+  }
+}

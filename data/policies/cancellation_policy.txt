@@ -1,0 +1,1 @@
+Orders may be cancelled before dispatch. After dispatch, cancellation may not be available and the customer may need to use the applicable return process.

@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "user": "When can I cancel my order?",
+  "assistant": {
+    "answer": "Orders may be cancelled before dispatch. After dispatch, cancellation may not be available and the customer may need to use the applicable return process.",
+    "source": "cancellation_policy.txt",
+    "confidence": 0.5694,
+    "mode": "MOCK_LLM"
+  }
+}
